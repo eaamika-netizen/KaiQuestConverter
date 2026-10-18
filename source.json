@@ -1,25 +1,24 @@
-
 {
-    "name": "Kai's Quest Converter",
-    "id": "com.kai.questconverter",
-    "url": "https://eaamika-netizen.github.io/KaiQuestConverter/index.json",
-    "author": {
-        "name": "Kai",
-        "url": "https://github.com/eaamika-netizen"
-    },
-    "description": "VRChat avatar helper for Quest materials, PhysBone removal, incompatible component cleanup, and Quest compatibility checks.",
-    "infoLink": {
-        "url": "https://github.com/eaamika-netizen/KaiQuestConverter",
-        "text": "View on GitHub"
-    },
-    "bannerUrl": "bannerMain.png",
-    "githubRepos": [],
-    "packages": [
-        {
-            "name": "com.kai.questconverter",
-            "releases": [
-                "https://github.com/eaamika-netizen/KaiQuestConverter/releases/download/v1.0.0/KaiQuestConverterv1.zip"
-            ]
-        }
-    ]
+  "name": "Kai's Quest Converter",
+  "id": "com.kai.questconverter",
+  "url": "https://eaamika-netizen.github.io/KaiQuestConverter/index.json",
+  "author": {
+    "name": "Kai",
+    "url": "https://github.com/eaamika-netizen"
+  },
+  "description": "VRChat avatar helper for Quest materials, PhysBone removal, incompatible component cleanup, and Quest compatibility checks.",
+  "infoLink": {
+    "url": "https://github.com/eaamika-netizen/KaiQuestConverter",
+    "text": "View on GitHub"
+  },
+  "bannerUrl": "banner.png",
+  "githubRepos": [],
+  "packages": [
+    {
+      "name": "com.kai.questconverter",
+      "releases": [
+        "https://github.com/eaamika-netizen/KaiQuestConverter/releases/download/v1.0.0/KaiQuestConverterv1.zip"
+      ]
+    }
+  ]
 }
