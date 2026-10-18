@@ -1,27 +1,24 @@
+
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
-    "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+    "name": "Kai's Quest Converter",
+    "id": "com.kai.questconverter",
+    "url": "https://eaamika-netizen.github.io/KaiQuestConverter/index.json",
+    "author": {
+        "name": "Kai",
+        "url": "https://github.com/eaamika-netizen"
     },
-    "description":"Example listing of VRChat packages",
-    "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
+    "description": "VRChat avatar helper for Quest materials, PhysBone removal, incompatible component cleanup, and Quest compatibility checks.",
+    "infoLink": {
+        "url": "https://github.com/eaamika-netizen/KaiQuestConverter",
+        "text": "View on GitHub"
     },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
-    "packages":[
+    "bannerUrl": "banner.png",
+    "githubRepos": [],
+    "packages": [
         {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+            "name": "com.kai.questconverter",
+            "releases": [
+                "https://github.com/eaamika-netizen/KaiQuestConverter/releases/download/1.0.0/com.kai.questconverter-1.0.0.zip"
             ]
         }
     ]
